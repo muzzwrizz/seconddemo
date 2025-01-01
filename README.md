@@ -1,1 +1,1 @@
-This is ny second Demo.
+This is my code for Amazon Clone Website using Html Css.
